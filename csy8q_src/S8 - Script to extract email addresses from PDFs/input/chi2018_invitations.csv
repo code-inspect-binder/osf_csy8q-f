@@ -1,0 +1,6 @@
+﻿tid,firstname,lastname,email,emailstatus,token,language,validfrom,validuntil,invited,reminded,remindercount,completed,usesleft, attribute_1 <paper title>, attribute_2 <paper DOI>, attribute_3 <next reminder>
+"1","firstname","lastname","email@gmail.com","OK","UjNyT5D5mJZwhfq","en","","","2018-07-09 20:32","N","0","Y","0","10.1145/XXXX","Paper title","16.07.18"
+"2","firstname","lastname","email@gmail.com","OK","UjNyT5D5mJZwhfq","en","","","2018-07-09 20:32","N","0","Y","0","10.1145/XXXX","Paper title","16.07.18"
+"3","firstname","lastname","email@gmail.com","OK","UjNyT5D5mJZwhfq","en","","","2018-07-09 20:32","N","0","Y","0","10.1145/XXXX","Paper title","16.07.18"
+"4","firstname","lastname","email@gmail.com","OK","UjNyT5D5mJZwhfq","en","","","2018-07-09 20:32","N","0","Y","0","10.1145/XXXX","Paper title","16.07.18"
+"5","firstname","lastname","email@gmail.com","OK","UjNyT5D5mJZwhfq","en","","","2018-07-09 20:32","N","0","Y","0","10.1145/XXXX","Paper title","16.07.18"
